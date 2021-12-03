@@ -1,3 +1,5 @@
+# Project 3. Alien Invasion.
+
 🚀 Alien invasion is a clone of popular arcade game with same name. I created this game by following the "Python Crash Course 2nd edition" book by Eric Matthes and made some upgrades:
 * aliens' ships images
 * player ship image
