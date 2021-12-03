@@ -10,7 +10,7 @@
 
 The reason of developing was to improve my python skills.
 
-![image](https://github.com/truemaxone/Alien-Invasion/tree/master/promo/Alien-Invasion.gif)
+![me](https://github.com/truemaxone/Alien-Invasion/blob/master/promo/Alien-Invasion.gif)
 
 🗿 **Description**
 
